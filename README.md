@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Part-Time Developer working in HCM City, VietNam.
+#### I'm a Part-Time Developer working in VTI Vietnam
 
 ##### NOW
 - 🇻🇳 I'm Working at VTI Vietnam
