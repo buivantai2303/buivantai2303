@@ -6,7 +6,7 @@
 
 ##### NOW
 - 🇻🇳 I'm Working at VTI Vietnam
-- 🤑 Java, HTML, CSS, JS 
+- 🤑 Java, HTML, CSS, JS , Python
 
 ##### BIO
 - 🏢 I studied at **:: EAUT - International Faculty, Đại học Công nghệ Đông Á - Khoa Quốc Tế ::"**
