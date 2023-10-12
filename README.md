@@ -1,15 +1,7 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
-<br><br>
 ### Hi there 👋
 
-#### I'm a Part-Time Developer working in VTI Vietnam
-
-##### NOW
-- 🇻🇳 I'm Working at VTI Vietnam
-- 🤑 Java, HTML, CSS, JS 
-
 ##### BIO
-- 🏢 I studied at **:: EAUT - International Faculty, Đại học Công nghệ Đông Á - Khoa Quốc Tế ::"**
+- 🏢 I studied at **:: International Faculty- EAST ASIA UNIVERSITY OF TECHNOLOGY ::"**
 - ⚙️ I use daily: `.java`, `.html`, `.css`.
 - 🌱 Learning all about **Open Source**
 
